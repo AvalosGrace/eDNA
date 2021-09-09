@@ -9,19 +9,11 @@
 
 set -x 
 
-#cd /fs/project/PAS1063/NPS_Flower_eDNA/eDNA/Alignments/MtxaFrmted
-#
-#ls *.mtxa2.tax | while read i
-#do
-#	a=`echo $i | cut -d'.' -f1`
-#	python ../../../4_TrimMtxa2IDs.py $i Classified/${a}.Trmd.txt
-#done
-
-cd /fs/project/PAS1063/NPS_Flower_eDNA/NPS/Alignments/MtxaFrmted
+cd /fs/project/PAS1063/Avalos_eDNA/Alignments/MtxaFrmted
 
 ls *.mtxa2.tax | while read i
 do
-        a=`echo $i | cut -d'.' -f1`
-        python ../../../4_TrimMtxa2IDs.py $i Classified/${a}.Trmd.txt
+	a=`echo $i | cut -d'.' -f1`
+	python ../../../4_TrimMtxa2IDs.py $i Classified/${a}.Trmd.txt
 done
 

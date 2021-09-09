@@ -9,18 +9,11 @@
 
 set -x 
 
-#cd /fs/project/PAS1063/NPS_Flower_eDNA/eDNA/Alignments
-#
-#ls *.vsrch70pi.txt | while read i 
-#do
-#	a=`echo $i | cut -d'.' -f1`
-#	python ../../3_VsearchToMetaxa2.py -v $i -t /fs/project/PAS1063/YvanSpiderProject/COI_Genus_noHS.tax -o ./MtxaFrmted/${a}.mtxa2.tax
-#done
+cd /fs/project/PAS1063/Avalos_eDNA/Alignments
 
-cd /fs/project/PAS1063/NPS_Flower_eDNA/NPS/Alignments
-
-ls *.vsrch70pi.txt | while read i
+ls *.vsrch70pi.txt | while read i 
 do
-        a=`echo $i | cut -d'.' -f1`
-        python ../../3_VsearchToMetaxa2.py -v $i -t /fs/project/PAS1063/YvanSpiderProject/COI_Genus_noHS.tax -o ./MtxaFrmted/${a}.mtxa2.tax
+	a=`echo $i | cut -d'.' -f1`
+	python ../../3_VsearchToMetaxa2.py -v $i -t /fs/project/PAS1063/YvanSpiderProject/COI_Genus_noHS.tax -o ./MtxaFrmted/${a}.mtxa2.tax
 done
+
