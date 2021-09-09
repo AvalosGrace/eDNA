@@ -1,0 +1,2 @@
+M01936:58:000000000-DC9P5:1:1101:23290:12235	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:8565:11528	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera

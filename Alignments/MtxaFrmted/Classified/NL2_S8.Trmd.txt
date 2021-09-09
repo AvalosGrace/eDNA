@@ -1,0 +1,9 @@
+M01936:58:000000000-DC9P5:1:1102:12875:26327	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:27054:17286	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:3662:20172	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:16875:2828	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:22701:16759	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:17950:20469	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:6199:14022	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:18582:18976	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Miridae;g__Adelphocoris;s__Adelphocoris lineolatus
+M01936:58:000000000-DC9P5:1:1102:12774:2340	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
