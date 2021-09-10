@@ -1,0 +1,206 @@
+M01936:58:000000000-DC9P5:1:1102:11720:9149	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:16379:24384	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:25209:21149	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:21868:12182	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:24900:12846	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1102:17395:7697	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:15048:20884	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1102:2410:17227	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:16092:2367	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1102:18573:16210	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:18236:19919	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:26642:16813	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:24936:20246	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1102:4662:8470	k__Eukaryota;p__Arthropoda;c__Arachnida;o__Sarcoptiformes
+M01936:58:000000000-DC9P5:1:1101:16019:16310	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:19794:23350	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:8257:9342	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:3032:17183	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:8238:24106	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:28017:12967	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:14565:19100	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:17104:21821	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:7004:5977	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:10414:22828	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Miridae;g__Lygus;s__Lygus lineolaris
+M01936:58:000000000-DC9P5:1:1101:13198:3860	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:13750:9363	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:26473:20483	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Miridae;g__Lygus;s__Lygus lineolaris
+M01936:58:000000000-DC9P5:1:1101:11928:15319	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:5660:9969	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:19750:9691	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:23971:11557	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:4184:14881	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:19518:10167	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:14016:18475	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:15248:7240	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:21132:9054	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1101:13587:14452	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:7079:21448	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:9582:9113	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:17649:19698	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:15119:16553	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hymenoptera;f__Apidae;g__Apis;s__Apis mellifera
+M01936:58:000000000-DC9P5:1:1101:14384:25197	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:16078:5219	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:8179:25955	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius
+M01936:58:000000000-DC9P5:1:1102:17285:19932	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:13694:22674	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:18089:8150	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:16285:12391	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:4762:17672	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:17949:10945	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1101:8243:9353	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:6489:18116	k__Eukaryota;p__Arthropoda;c__Malacostraca;o__Amphipoda
+M01936:58:000000000-DC9P5:1:1101:16814:14260	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:21832:25563	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1102:5350:22709	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:13715:3029	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Halimococcidae
+M01936:58:000000000-DC9P5:1:1102:16537:10959	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:27973:12582	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:15741:10740	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:16073:5236	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:19226:24017	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:21987:25682	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cantharidae;g__Chauliognathus;s__Chauliognathus pensylvanicus
+M01936:58:000000000-DC9P5:1:1101:7140:7994	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:7100:19153	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:19350:28185	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:17970:7890	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:27799:16060	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:21213:4390	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:14467:7313	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:9913:15768	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:10033:17703	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:13595:5659	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:7570:22957	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:2451:12105	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:21907:26547	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:29022:17622	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hymenoptera;f__Apidae;g__Apis;s__Apis mellifera
+M01936:58:000000000-DC9P5:1:1102:28174:13757	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:12302:20584	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:21547:21499	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:12924:14090	k__Eukaryota;p__Arthropoda;c__Arachnida;o__Araneae
+M01936:58:000000000-DC9P5:1:1102:28164:18203	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:29054:11483	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:12382:4907	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:18726:3848	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:17403:7714	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:22199:17236	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:20429:20453	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1102:20915:24195	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:18218:26867	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:18095:24695	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1102:19346:28205	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:20756:18404	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:23842:21376	k__Eukaryota;p__Arthropoda;c__Arachnida;o__Araneae
+M01936:58:000000000-DC9P5:1:1101:21515:15376	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cantharidae;g__Chauliognathus;s__Chauliognathus pensylvanicus
+M01936:58:000000000-DC9P5:1:1102:18078:24682	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1101:3606:20104	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:18752:12297	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:8413:21429	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:16089:2384	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:11499:27817	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:16035:18850	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:3035:17201	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:8293:7403	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1101:10639:16656	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:17906:10796	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:14457:7297	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:4046:12649	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:19551:2620	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:4773:17686	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:3949:12642	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1102:19695:3635	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:28344:20981	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:29152:18974	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1102:20238:13647	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hymenoptera;f__Apidae;g__Apis;s__Apis mellifera
+M01936:58:000000000-DC9P5:1:1102:21909:16922	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1102:4318:10846	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:22836:13087	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:13393:13654	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:13923:23255	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:26506:8712	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:11511:24244	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1102:22660:9888	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:9906:23231	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:11297:19024	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:22819:19750	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:12453:10949	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:9948:16393	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:14437:7177	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:11306:17727	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:11856:14085	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:13547:20891	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:13375:13940	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:12055:11645	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:4291:20148	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:25316:16755	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Liviidae;g__Diaphorina;s__Diaphorina lycii
+M01936:58:000000000-DC9P5:1:1102:15234:23392	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cantharidae;g__Chauliognathus;s__Chauliognathus pensylvanicus
+M01936:58:000000000-DC9P5:1:1101:3691:15848	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:25191:14472	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1102:10890:10552	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:21221:3322	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:21779:16992	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:19302:13214	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:6872:5718	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:7786:26176	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:10247:24193	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:2425:17213	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:10234:24206	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:18459:16815	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Liviidae;g__Diaphorina
+M01936:58:000000000-DC9P5:1:1101:24303:18015	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:3674:15840	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:9719:14319	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:3015:17197	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:14358:25208	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:13731:9370	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:7130:5750	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:18412:28847	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:26486:8717	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:10132:5175	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:16358:24489	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:14003:13754	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:20203:16322	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1102:16502:14015	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:26522:18964	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:15691:24812	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:9156:13313	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1101:11338:23883	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:9638:16931	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:14477:7293	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:11689:9983	k__Eukaryota;p__Arthropoda;c__Malacostraca;o__Amphipoda;f__Hyalellidae
+M01936:58:000000000-DC9P5:1:1101:28656:17317	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:21219:3302	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:10898:10960	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:18411:19063	k__Eukaryota;p__Arthropoda;c__Insecta;o__Orthoptera
+M01936:58:000000000-DC9P5:1:1101:18380:14350	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:25607:22446	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:13045:24569	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:7532:16927	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera;f__Cecidomyiidae
+M01936:58:000000000-DC9P5:1:1101:23860:20058	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1102:10189:19248	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:9431:7828	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:19035:8682	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1102:8712:3449	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:20578:15046	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:25742:8747	k__Eukaryota;p__Arthropoda;c__Arachnida;o__Araneae
+M01936:58:000000000-DC9P5:1:1102:18428:3232	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1102:15062:20869	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:24674:9271	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:9921:23217	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1102:22667:11013	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:27992:12589	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:13751:11057	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:19450:24865	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cantharidae;g__Chauliognathus;s__Chauliognathus pensylvanicus
+M01936:58:000000000-DC9P5:1:1102:10012:12448	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hymenoptera;f__Apidae;g__Apis;s__Apis mellifera
+M01936:58:000000000-DC9P5:1:1101:11633:10959	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:21759:20034	k__Eukaryota;p__Arthropoda;c__Insecta;o__Thysanoptera;f__Thripidae;g__Frankliniella;s__Frankliniella fusca
+M01936:58:000000000-DC9P5:1:1101:26541:18951	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1101:21355:23942	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera
+M01936:58:000000000-DC9P5:1:1102:15233:21129	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera
+M01936:58:000000000-DC9P5:1:1101:24073:12482	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Anthocoridae;g__Orius;
+M01936:58:000000000-DC9P5:1:1101:12379:23211	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera;f__Miridae;g__Lygus;s__Lygus lineolaris
+M01936:58:000000000-DC9P5:1:1101:22954:25902	k__Eukaryota;p__Arthropoda;c__Arachnida;o__Araneae;f__Nemesiidae
+M01936:58:000000000-DC9P5:1:1102:8845:26608	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:19707:3650	k__Eukaryota;p__Arthropoda;c__Insecta;o__Hemiptera
+M01936:58:000000000-DC9P5:1:1102:24225:19143	k__Eukaryota;p__Arthropoda;c__Protura;o__urs_f__Fujientomidae
+M01936:58:000000000-DC9P5:1:1101:4992:8438	k__Eukaryota;p__Arthropoda;c__Insecta;o__Coleoptera;f__Cerambycidae
+M01936:58:000000000-DC9P5:1:1101:20833:13739	k__Eukaryota;p__Arthropoda;c__Insecta;o__Diptera

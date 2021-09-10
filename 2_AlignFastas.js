@@ -9,7 +9,7 @@
 
 set -x 
 
-cd /fs/project/PAS1063/Avalos_eDNA
+cd /fs/project/PAS1063/Avalos_eDNA/Assembled
 
 ls *L001.asmbld.fasta | while read i
 do

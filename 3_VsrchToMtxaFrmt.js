@@ -9,7 +9,7 @@
 
 set -x 
 
-cd /fs/project/PAS1063/Avalos_eDNA/Alignments
+cd /fs/project/PAS1063/Avalos_eDNA/Assembled/Alignments
 
 ls *.vsrch70pi.txt | while read i 
 do
